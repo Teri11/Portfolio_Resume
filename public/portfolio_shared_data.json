@@ -1,20 +1,30 @@
 {
     "basic_info": {
-      "name": "Davina Griss",
-      "titles": [ "Front-end Developer", "Senior Data Engineer", "Dev Team lead", "Mobile App Developer" ],
+      "name": "Kubai Augustine Mweteri",
+      "titles": [ "Front-end Engineer", "Full-Stack Developer"],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/Teri11",
           "class": "fab fa-github"
         },
         {
           "name": "instagram",
           "url": "https://www.instagram.com",
           "class": "fab fa-instagram"
+        },
+        {
+          "name": "twitter",
+          "url": "https://www.twitter.com",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com",
+          "class": "fab fa-facebook"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "prof.jpeg"
     },
     "skills": {
       "icons": [
@@ -41,23 +51,15 @@
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
-          "level": "70"
+          "level": "55"
         },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
+     
         {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
         },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
+       
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",

@@ -1,83 +1,215 @@
 {
     "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
+      "description_header": "Habari",
+      "description": "👋 Mimi Kubai Augustine Mweteri. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
       "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
+        "about": "Kuhusu mimi",
+        "projects": "Miradi",
+        "skills": "Ujuzi",
+        "experience": "Uzoefu"
       }
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
+        "title": "Akan-Names",
+        "startDate": "2021",
+        "description": "A web application that takes a user's birthday and calculates the day of the week they were born and then, depending on their gender outputs their Akan Name.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/Akan/akan1.jpeg",
+          "images/portfolio/Akan/akan2.jpeg"
         ],
-        "url": "",
+        "url": "https://teri11.github.io/Akan-Names/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           },
           {
             "class": "devicon-javascript-plain",
-            "name": "JavaScript"
+            "name": "Javascript"
           }
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
+        "title": "Kibandaski-Pizza-Palace",
+        "startDate": "2022",
+        "description": "A restaurant that makes your appetite scream.",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/kibandaski/kiband1.jpeg",
+          "images/portfolio/kibandaski/kiband2.jpeg",
+          "images/portfolio/kibandaski/kiband3.jpeg",
+          "images/portfolio/kibandaski/kiband4.jpeg",
+          "images/portfolio/kibandaski/kiband5.jpeg"
         ],
-        "url": "https://github.com",
+        "url": "https://teri11.github.io/Kibandaski-Pizza-Palace/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Delani-Studio",
+        "startDate": "2021",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/delani/delani1.jpeg",
+          "images/portfolio/delani/delani2.jpeg",
+          "images/portfolio/delani/delani3.jpeg",
+          "images/portfolio/delani/delani4.jpeg"
+        ],
+        "url": "https://teri11.github.io/Delani-Studio/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Quotes-app",
+        "startDate": "2022",
+        "description": "An application where users can create quotes,upload favourite Quotes and have those quotes voted on whether they are terrible or are inspirational.",
+        "images": [
+          "images/portfolio/quotes/quotes1.jpeg"
+       
+          ],
+        "url": "https://fervent-turing-5cec46.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
           },
           {
             "class": "devicon-typescript-plain",
             "name": "TypeScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
           }
         ]
+      },
+      {
+        "title": "The-Burger-Palace",
+        "startDate": "2021",
+        "description": "This website entails all the good service my favourite burger palace can offer .Serving the greatest burgers on the planet.This site helps new customer who are interested to know how burgers tatses like can get a taste for their first favourite meals.",
+        "images": [
+          "images/portfolio/burger/burger1.jpeg",
+          "images/portfolio/burger/burger2.jpeg",
+          "images/portfolio/burger/burger3.jpeg",
+          "images/portfolio/burger/burger4.jpeg"
+       
+          ],
+        "url": "https://teri11.github.io/The-burger-Palace/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          } 
+        ]
+      },
+      {
+        "title": "MY-SERVISER",
+        "startDate": "2021",
+        "description": "This website entails all the good service that our technicians can offer since they have decades of practical,infield experience besides factory training.",
+        "images": [
+          "images/portfolio/serviser/serviser1.jpeg",
+          "images/portfolio/serviser/serviser2.jpeg",
+          "images/portfolio/serviser/serviser3.jpeg",
+          "images/portfolio/serviser/serviser4.jpeg",
+          "images/portfolio/serviser/serviser5.jpeg"
+       
+          ],
+        "url": "https://teri11.github.io/MY-SERVISER/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          } 
+        ]
+      },
+      {
+        "title": "Letuce-Eat",
+        "startDate": "2021",
+        "description": "This website entails all the good service and food my best Moringa restaurant can offer.Providing the greatest meals and best combinations globally.This site helps new clients who are interested to try new meals in new places enjoy their first trial.",
+        "images": [
+          "images/portfolio/letuce/letuce1.jpeg",
+          "images/portfolio/letuce/letuce2.jpeg",
+          "images/portfolio/letuce/letuce3.jpeg",
+          "images/portfolio/letuce/letuce4.jpeg",
+          "images/portfolio/letuce/letuce5.jpeg"
+       
+          ],
+        "url": "https://teri11.github.io/Letuce-Eat/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          } 
+        ]
+      },
+      {
+        "title": "Favourite-Pet",
+        "startDate": "2021",
+        "description": "This website entails all the good service and food my best Moringa restaurant can offer.Providing the greatest meals and best combinations globally.This site helps new clients who are interested to try new meals in new places enjoy their first trial.",
+        "images": [
+          "images/portfolio/pet/pet1.jpeg",
+          "images/portfolio/pet/pet2.jpeg",
+          "images/portfolio/pet/pet3.jpeg"
+        
+       
+          ],
+        "url": "https://teri11.github.io/Favourite-Pet/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          } 
+        ]
       }
+
     ],
     "experience": [
       {
@@ -99,7 +231,7 @@
       },
       {
         "company": "Serros Solutions",
-        "title": "Stażystka",
+        "title": "Intern",
         "years": "01.2018 - 09.2019",
         "mainTech": [
           "Angular 7/8"

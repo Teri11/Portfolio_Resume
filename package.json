@@ -1,6 +1,5 @@
 {
   "name": "react-frontend-dev-portfolio",
-  "homepage": "https://dorota1997.github.io/react-frontend-dev-portfolio/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -20,13 +19,11 @@
     "react-vertical-timeline-component": "^3.3.1"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-  },
+    "eject": "react-scripts eject"
+},
   "eslintConfig": {
     "extends": "react-app"
   },
