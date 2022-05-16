@@ -208,6 +208,34 @@
             "name": "CSS"
           } 
         ]
+      },
+      {
+        "title": "PITCHES",
+        "startDate": "2022",
+        "description": "An application that allows users to use a one minute wisely by submitting their one minute pitches and other users will vote on them and leave comments to give their feedback on them.",
+        "images": [
+          "images/portfolio/pitch/pitch1.jpeg",
+          "images/portfolio/pitch/pitch2.jpeg",
+          "images/portfolio/pitch/pitch3.jpeg",
+          "images/portfolio/pitch/pitch4.jpeg",
+          "images/portfolio/pitch/pitch5.jpeg"
+         
+          ],
+        "url": "https://pitchwald.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-mako-plain",
+            "name": "MAKO"
+          } 
+        ]
       }
 
     ],
