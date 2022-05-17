@@ -368,6 +368,118 @@
           }
         
         ]
+      },
+      {
+        "title": "Awwwards",
+        "startDate": "2022",
+        "description": "A web application that allows users to view posted projects and their details.AS a user you can also post a project to be rated or reviewed and also you can as well rate and review other users' projects.",
+        "images": [
+          "images/portfolio/awards/award1.jpeg",
+          "images/portfolio/awards/award2.jpeg",
+          "images/portfolio/awards/award3.jpeg",
+          "images/portfolio/awards/award4.jpeg",
+          "images/portfolio/awards/award5.jpeg"
+        
+         
+          ],
+        "url": "https://awardawards.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        
+        ]
+      },
+      {
+        "title": "Neighbourhood",
+        "startDate": "2022",
+        "description": "This is a Django web application in which users can create a profile about themselves, as well as a general location and the name of their neighborhood. The user can find a list of different businesses in the neighborhood, as well as contact information for the health department and police authorities in the area. A user can also make posts that are visible to everyone in the neighborhood.",
+        "images": [
+          "images/portfolio/neighbourhood/neighbourhood1.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood2.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood3.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood4.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood5.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood6.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood7.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood8.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood9.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood10.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood11.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood12.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood13.jpeg"
+        
+         
+          ],
+        "url": "https://neighbourwangu.herokuapp.com/accounts/login/?next=/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
+      },
+      {
+        "title": "WORKLINKS",
+        "startDate": "2022",
+        "description": "A web application that allows JObseekers to view posted jobs on the website by companies and their requirements.You can log in as Company offering jobs and as a company you can also post a jobs to be viewd and applied for.",
+        "images": [
+          "images/portfolio/worklinks/worklinks1.jpeg",
+          "images/portfolio/worklinks/worklinks2.jpeg",
+          "images/portfolio/worklinks/worklinks3.jpeg",
+          "images/portfolio/worklinks/worklinks4.jpeg",
+          "images/portfolio/worklinks/worklinks5.jpeg",
+          "images/portfolio/worklinks/worklinks6.jpeg",
+          "images/portfolio/worklinks/worklinks7.jpeg",
+          "images/portfolio/worklinks/worklinks8.jpeg",
+          "images/portfolio/worklinks/worklinks9.jpeg",
+          "images/portfolio/worklinks/worklinks10.jpeg",
+          "images/portfolio/worklinks/worklinks11.jpeg"
+        
+         
+          ],
+        "url": "https://github.com/Teri11/worklinks-frontend",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
       }
     ],
     "experience": [

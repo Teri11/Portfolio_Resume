@@ -210,6 +210,30 @@
         ]
       },
       {
+        "title": "Personal-Blog",
+        "startDate": "2022",
+        "description": "This is a personal blogging website for creating and sharing opinions and other users can read and comment on them. It also displays random inspiring quotes to users.The application consumes API endpoint to fetch and display the random quotes.",
+        "images": [
+          "images/portfolio/blog/blog1.jpeg",
+          "images/portfolio/blog/blog2.jpeg",
+          "images/portfolio/blog/blog3.jpeg",
+          "images/portfolio/blog/blog3.jpeg"
+        
+       
+          ],
+        "url": "https://personalbloggs.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          } 
+        ]
+      },
+      {
         "title": "PITCHES",
         "startDate": "2022",
         "description": "An application that allows users to use a one minute wisely by submitting their one minute pitches and other users will vote on them and leave comments to give their feedback on them.",
@@ -236,8 +260,227 @@
             "name": "MAKO"
           } 
         ]
+      },
+      {
+        "title": "News-Highlight",
+        "startDate": "2022",
+        "description": "Parents are always busy workers and they get home really late. They always miss the news and they are very frustrated since they can't keep up with current affairs.So this App solves the problem.",
+        "images": [
+          "images/portfolio/news/news1.jpeg",
+          "images/portfolio/news/news2.jpeg",
+          "images/portfolio/news/news3.jpeg"
+         
+         
+          ],
+        "url": "https://news-highlight11.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+         
+        ]
+      },
+      {
+        "title": "Goals",
+        "startDate": "2022",
+        "description": "A web application that Adds Goals that you want to achieve",
+        "images": [
+          "images/portfolio/goals/goal1.jpeg"
+          ],
+        "url": "https://teri11.github.io/Goals/",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javacript"
+          }
+        ]
+      },
+      {
+        "title": "My-Gallery",
+        "startDate": "2022",
+        "description": "A personal gallery application that will display my photos for others to see.",
+        "images": [
+          "images/portfolio/gallery/gallery1.jpeg",
+          "images/portfolio/gallery/gallery2.jpeg",
+          "images/portfolio/gallery/gallery3.jpeg",
+          "images/portfolio/gallery/gallery4.jpeg"
+         
+          ],
+        "url": "https://gallerypic.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javacript"
+          }
+        ]
+      },
+      {
+        "title": "Instagram-App",
+        "startDate": "2022",
+        "description": "A Django web application that is a replica of the famous Instagram photo App.It needs users to sign in for the application so as to start using it and upload pictures to the site.A user can follow other users and get to see their pictures on the timeline and also like a picture or leave a comment on it.",
+        "images": [
+          "images/portfolio/instagram/insta1.jpeg",
+          "images/portfolio/instagram/insta2.jpeg",
+          "images/portfolio/instagram/insta3.jpeg",
+          "images/portfolio/instagram/insta4.jpeg",
+          "images/portfolio/instagram/insta5.jpeg",
+          "images/portfolio/instagram/insta6.jpeg"
+         
+          ],
+        "url": "https://appinstagramm.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "django"
+          }
+        
+        ]
+      },
+      {
+        "title": "Awwwards",
+        "startDate": "2022",
+        "description": "A web application that allows users to view posted projects and their details.AS a user you can also post a project to be rated or reviewed and also you can as well rate and review other users' projects.",
+        "images": [
+          "images/portfolio/awards/award1.jpeg",
+          "images/portfolio/awards/award2.jpeg",
+          "images/portfolio/awards/award3.jpeg",
+          "images/portfolio/awards/award4.jpeg",
+          "images/portfolio/awards/award5.jpeg"
+        
+         
+          ],
+        "url": "https://awardawards.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        
+        ]
+      },
+      {
+        "title": "Neighbourhood",
+        "startDate": "2022",
+        "description": "This is a Django web application in which users can create a profile about themselves, as well as a general location and the name of their neighborhood. The user can find a list of different businesses in the neighborhood, as well as contact information for the health department and police authorities in the area. A user can also make posts that are visible to everyone in the neighborhood.",
+        "images": [
+          "images/portfolio/neighbourhood/neighbourhood1.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood2.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood3.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood4.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood5.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood6.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood7.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood8.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood9.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood10.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood11.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood12.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood13.jpeg"
+        
+         
+          ],
+        "url": "https://neighbourwangu.herokuapp.com/accounts/login/?next=/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
+      },
+      {
+        "title": "WORKLINKS",
+        "startDate": "2022",
+        "description": "A web application that allows JObseekers to view posted jobs on the website by companies and their requirements.You can log in as Company offering jobs and as a company you can also post a jobs to be viewd and applied for.",
+        "images": [
+          "images/portfolio/worklinks/worklinks1.jpeg",
+          "images/portfolio/worklinks/worklinks2.jpeg",
+          "images/portfolio/worklinks/worklinks3.jpeg",
+          "images/portfolio/worklinks/worklinks4.jpeg",
+          "images/portfolio/worklinks/worklinks5.jpeg",
+          "images/portfolio/worklinks/worklinks6.jpeg",
+          "images/portfolio/worklinks/worklinks7.jpeg",
+          "images/portfolio/worklinks/worklinks8.jpeg",
+          "images/portfolio/worklinks/worklinks9.jpeg",
+          "images/portfolio/worklinks/worklinks10.jpeg",
+          "images/portfolio/worklinks/worklinks11.jpeg"
+        
+         
+          ],
+        "url": "https://github.com/Teri11/worklinks-frontend",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
       }
-
     ],
     "experience": [
       {
