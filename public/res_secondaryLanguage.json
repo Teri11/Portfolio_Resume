@@ -492,6 +492,7 @@
         ],
         "technologies": [
           "REST API",
+          "Django",
           "RxJS",
           "JavaScript",
           "Bootstrap",
