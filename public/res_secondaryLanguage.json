@@ -480,6 +480,46 @@
           }
         
         ]
+      },
+      {
+        "title": "Quick-MAID",
+        "startDate": "2022",
+        "description": "QuickMaid- - company is commited to delivering innovative cleaning services in the marketplace. The company offers carpet, sofa set, cleaning services and nanny services. It also offers reliable and affordable housekeeping services.we offer quality and value that results in complete customer satisfaction.",
+        "images": [
+          "images/portfolio/maid/maid1.jpeg",
+          "images/portfolio/maid/maid2.jpeg",
+          "images/portfolio/maid/maid3.jpeg",
+          "images/portfolio/maid/maid4.jpeg",
+          "images/portfolio/maid/maid5.jpeg",
+          "images/portfolio/maid/maid6.jpeg",
+          "images/portfolio/maid/maid7.jpeg",
+          "images/portfolio/maid/maid8.jpeg",
+          "images/portfolio/maid/maid9.jpeg",
+          "images/portfolio/maid/maid10.jpeg",
+          "images/portfolio/maid/maid11.jpeg"
+        
+         
+          ],
+        "url": "https://github.com/Teri11/Quick-MAID",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
       }
     ],
     "experience": [
