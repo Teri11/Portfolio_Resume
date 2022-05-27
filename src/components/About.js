@@ -18,8 +18,8 @@ class About extends Component {
     return (
       <section id="about">
         <div className="col-md-12">
-          <h1 style={{ color: "black" }}>
-            <span>{sectionName}</span>
+          <h1 style={{ color: "black",fontFamily:"Big Shoulders Stencil Text",fontSize:"5rem" }}>
+            <span><strong>{sectionName}</strong></span>
           </h1>
           <div className="row center mx-auto mb-5">
             <div className="col-md-4 mb-5 center">

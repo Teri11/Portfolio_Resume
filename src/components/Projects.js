@@ -36,8 +36,8 @@ class Projects extends Component {
                   />
                   <span className="project-date">{projects.startDate}</span>
                   <br />
-                  <p className="project-title-settings mt-3">
-                    {projects.title}
+                  <p className="project-title-settings mt-3"><strong> {projects.title}</strong>
+                   
                   </p>
                 </div>
               </div>
