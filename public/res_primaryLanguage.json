@@ -559,7 +559,47 @@
           }
         
         ]
+      },
+      {
+        "title": "Shire-livestock-buy-and-sell",
+        "startDate": "2022",
+        "description": "This is a livestock website which will be of help to farmers who cannot get the market for their livestock.It will bring the global livestock farming right into the digital world",
+        "images": [
+          "images/portfolio/shire/shire1.jpeg",
+          "images/portfolio/trades/trade2.jpeg",
+          "images/portfolio/trades/trade3.jpeg",
+          "images/portfolio/trades/trade4.jpeg",
+          "images/portfolio/trades/trade5.jpeg",
+          "images/portfolio/trades/trade6.jpeg",
+          "images/portfolio/trades/trade7.jpeg",
+          "images/portfolio/trades/trade8.jpeg",
+          "images/portfolio/trades/trade9.jpeg",
+          "images/portfolio/trades/trade10.jpeg",
+          "images/portfolio/trades/trade11.jpeg",
+          "images/portfolio/trades/trade12.jpeg",
+          "images/portfolio/trades/trade13.jpeg"
+        
+         
+          ],
+        "url": "https://github.com/Teri11/Rophyx-Traders",
+        "technologies": [
+         
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
       }
+      
     ],
     "experience": [
       {
