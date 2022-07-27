@@ -69,8 +69,12 @@
           "name": "django",
           "class": "devicon-django-plain",
           "level": "60"
+        },
+        {
+          "name": "sass",
+          "class": "devicon-sass-plain",
+          "level": "60"
         }
-       
-      ]
+       ]
     }
   }
