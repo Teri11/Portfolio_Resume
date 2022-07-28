@@ -604,6 +604,35 @@
           }
         
         ]
+      },
+      {
+        "title": "Marvel-Gallery",
+        "startDate": "2022",
+        "description": "Rophyx Traders is a store as well as a web commerce shop that sells, service and installs and maintains security items suchs CCTV, CCTV accessories.",
+        "images": [
+          "images/portfolio/trades/trade1.jpeg",
+          "images/portfolio/trades/trade2.jpeg",
+          "images/portfolio/trades/trade3.jpeg",
+          "images/portfolio/trades/trade4.jpeg",
+          "images/portfolio/trades/trade5.jpeg"
+          ],
+        "url": " https://teri11.github.io/Marvel-Gallery/",
+        "technologies": [
+         
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
       }
       
     ],
