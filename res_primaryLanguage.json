@@ -1,0 +1,682 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Kubai Augustine Mweteri,Full-stack || front-end Software developer working daily on sharpening my skills and developing projects with developers from all over the globe.I'm working with newest front-end frameworks like React and also angular,flask and django.Thank you",
+      "section_name": {
+        "about": "About me.",
+        "projects": "Projects.",
+        "skills": "Skills.",
+        "experience": "Experience."
+      }
+    },
+    "projects": [
+      {
+        "title": "Akan-Names",
+        "startDate": "2021",
+        "description": "A web application that takes a user's birthday and calculates the day of the week they were born and then, depending on their gender outputs their Akan Name.",
+        "images": [
+          "images/portfolio/Akan/akan1.jpeg",
+          "images/portfolio/Akan/akan2.jpeg"
+        ],
+        "url": "https://teri11.github.io/Akan-Names/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Kibandaski-Pizza-Palace",
+        "startDate": "2022",
+        "description": "A restaurant that makes your appetite scream.",
+        "images": [
+          "images/portfolio/kibandaski/kiband1.jpeg",
+          "images/portfolio/kibandaski/kiband2.jpeg",
+          "images/portfolio/kibandaski/kiband3.jpeg",
+          "images/portfolio/kibandaski/kiband4.jpeg",
+          "images/portfolio/kibandaski/kiband5.jpeg"
+        ],
+        "url": "https://teri11.github.io/Kibandaski-Pizza-Palace/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Delani-Studio",
+        "startDate": "2021",
+        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "images": [
+          "images/portfolio/delani/delani1.jpeg",
+          "images/portfolio/delani/delani2.jpeg",
+          "images/portfolio/delani/delani3.jpeg",
+          "images/portfolio/delani/delani4.jpeg"
+        ],
+        "url": "https://teri11.github.io/Delani-Studio/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        ]
+      },
+      {
+        "title": "Quotes-app",
+        "startDate": "2022",
+        "description": "An application where users can create quotes,upload favourite Quotes and have those quotes voted on whether they are terrible or are inspirational.",
+        "images": [
+          "images/portfolio/quotes/quotes1.jpeg"
+       
+          ],
+        "url": "https://fervent-turing-5cec46.netlify.app/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        ]
+      },
+      {
+        "title": "The-Burger-Palace",
+        "startDate": "2021",
+        "description": "This website entails all the good service my favourite burger palace can offer .Serving the greatest burgers on the planet.This site helps new customer who are interested to know how burgers tatses like can get a taste for their first favourite meals.",
+        "images": [
+          "images/portfolio/burger/burger1.jpeg",
+          "images/portfolio/burger/burger2.jpeg",
+          "images/portfolio/burger/burger3.jpeg",
+          "images/portfolio/burger/burger4.jpeg"
+       
+          ],
+        "url": "https://teri11.github.io/The-burger-Palace/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          } 
+        ]
+      },
+      {
+        "title": "MY-SERVISER",
+        "startDate": "2021",
+        "description": "This website entails all the good service that our technicians can offer since they have decades of practical,infield experience besides factory training.",
+        "images": [
+          "images/portfolio/serviser/serviser1.jpeg",
+          "images/portfolio/serviser/serviser2.jpeg",
+          "images/portfolio/serviser/serviser3.jpeg",
+          "images/portfolio/serviser/serviser4.jpeg",
+          "images/portfolio/serviser/serviser5.jpeg"
+       
+          ],
+        "url": "https://teri11.github.io/MY-SERVISER/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          } 
+        ]
+      },
+      {
+        "title": "Letuce-Eat",
+        "startDate": "2021",
+        "description": "This website entails all the good service and food my best Moringa restaurant can offer.Providing the greatest meals and best combinations globally.This site helps new clients who are interested to try new meals in new places enjoy their first trial.",
+        "images": [
+          "images/portfolio/letuce/letuce1.jpeg",
+          "images/portfolio/letuce/letuce2.jpeg",
+          "images/portfolio/letuce/letuce3.jpeg",
+          "images/portfolio/letuce/letuce4.jpeg",
+          "images/portfolio/letuce/letuce5.jpeg"
+       
+          ],
+        "url": "https://teri11.github.io/Letuce-Eat/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          } 
+        ]
+      },
+      {
+        "title": "Favourite-Pet",
+        "startDate": "2021",
+        "description": "This website entails all the good service and food my best Moringa restaurant can offer.Providing the greatest meals and best combinations globally.This site helps new clients who are interested to try new meals in new places enjoy their first trial.",
+        "images": [
+          "images/portfolio/pet/pet1.jpeg",
+          "images/portfolio/pet/pet2.jpeg",
+          "images/portfolio/pet/pet3.jpeg"
+        
+       
+          ],
+        "url": "https://teri11.github.io/Favourite-Pet/",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          } 
+        ]
+      },
+      {
+        "title": "Personal-Blog",
+        "startDate": "2022",
+        "description": "This is a personal blogging website for creating and sharing opinions and other users can read and comment on them. It also displays random inspiring quotes to users.The application consumes API endpoint to fetch and display the random quotes.",
+        "images": [
+          "images/portfolio/blog/blog1.jpeg",
+          "images/portfolio/blog/blog2.jpeg",
+          "images/portfolio/blog/blog3.jpeg",
+          "images/portfolio/blog/blog3.jpeg"
+        
+       
+          ],
+        "url": "https://personalbloggs.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          } 
+        ]
+      },
+      {
+        "title": "PITCHES",
+        "startDate": "2022",
+        "description": "An application that allows users to use a one minute wisely by submitting their one minute pitches and other users will vote on them and leave comments to give their feedback on them.",
+        "images": [
+          "images/portfolio/pitch/pitch1.jpeg",
+          "images/portfolio/pitch/pitch2.jpeg",
+          "images/portfolio/pitch/pitch3.jpeg",
+          "images/portfolio/pitch/pitch4.jpeg",
+          "images/portfolio/pitch/pitch5.jpeg"
+         
+          ],
+        "url": "https://pitchwald.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-mako-plain",
+            "name": "MAKO"
+          } 
+        ]
+      },
+      {
+        "title": "News-Highlight",
+        "startDate": "2022",
+        "description": "Parents are always busy workers and they get home really late. They always miss the news and they are very frustrated since they can't keep up with current affairs.So this App solves the problem.",
+        "images": [
+          "images/portfolio/news/news1.jpeg",
+          "images/portfolio/news/news2.jpeg",
+          "images/portfolio/news/news3.jpeg"
+         
+         
+          ],
+        "url": "https://news-highlight11.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          }
+         
+        ]
+      },
+      {
+        "title": "Goals",
+        "startDate": "2022",
+        "description": "A web application that Adds Goals that you want to achieve",
+        "images": [
+          "images/portfolio/goals/goal1.jpeg"
+          ],
+        "url": "https://teri11.github.io/Goals/",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javacript"
+          }
+        ]
+      },
+      {
+        "title": "My-Gallery",
+        "startDate": "2022",
+        "description": "A personal gallery application that will display my photos for others to see.",
+        "images": [
+          "images/portfolio/gallery/gallery1.jpeg",
+          "images/portfolio/gallery/gallery2.jpeg",
+          "images/portfolio/gallery/gallery3.jpeg",
+          "images/portfolio/gallery/gallery4.jpeg"
+         
+          ],
+        "url": "https://gallerypic.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javacript"
+          }
+        ]
+      },
+      {
+        "title": "Instagram-App",
+        "startDate": "2022",
+        "description": "A Django web application that is a replica of the famous Instagram photo App.It needs users to sign in for the application so as to start using it and upload pictures to the site.A user can follow other users and get to see their pictures on the timeline and also like a picture or leave a comment on it.",
+        "images": [
+          "images/portfolio/instagram/insta1.jpeg",
+          "images/portfolio/instagram/insta2.jpeg",
+          "images/portfolio/instagram/insta3.jpeg",
+          "images/portfolio/instagram/insta4.jpeg",
+          "images/portfolio/instagram/insta5.jpeg",
+          "images/portfolio/instagram/insta6.jpeg"
+         
+          ],
+        "url": "https://appinstagramm.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-django-plain",
+            "name": "django"
+          }
+        
+        ]
+      },
+      {
+        "title": "Awwwards",
+        "startDate": "2022",
+        "description": "A web application that allows users to view posted projects and their details.AS a user you can also post a project to be rated or reviewed and also you can as well rate and review other users' projects.",
+        "images": [
+          "images/portfolio/awards/award1.jpeg",
+          "images/portfolio/awards/award2.jpeg",
+          "images/portfolio/awards/award3.jpeg",
+          "images/portfolio/awards/award4.jpeg",
+          "images/portfolio/awards/award5.jpeg"
+        
+         
+          ],
+        "url": "https://awardawards.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          }
+        
+        ]
+      },
+      {
+        "title": "Neighbourhood",
+        "startDate": "2022",
+        "description": "This is a Django web application in which users can create a profile about themselves, as well as a general location and the name of their neighborhood. The user can find a list of different businesses in the neighborhood, as well as contact information for the health department and police authorities in the area. A user can also make posts that are visible to everyone in the neighborhood.",
+        "images": [
+          "images/portfolio/neighbourhood/neighbourhood1.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood2.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood3.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood4.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood5.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood6.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood7.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood8.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood9.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood10.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood11.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood12.jpeg",
+          "images/portfolio/neighbourhood/neighbourhood13.jpeg"
+        
+         
+          ],
+        "url": "https://neighbourwangu.herokuapp.com/accounts/login/?next=/",
+        "technologies": [
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
+      },
+      {
+        "title": "WORKLINKS",
+        "startDate": "2022",
+        "description": "A web application that allows JObseekers to view posted jobs on the website by companies and their requirements.You can log in as Company offering jobs and as a company you can also post a jobs to be viewd and applied for.",
+        "images": [
+          "images/portfolio/worklinks/worklinks1.jpeg",
+          "images/portfolio/worklinks/worklinks2.jpeg",
+          "images/portfolio/worklinks/worklinks3.jpeg",
+          "images/portfolio/worklinks/worklinks4.jpeg",
+          "images/portfolio/worklinks/worklinks5.jpeg",
+          "images/portfolio/worklinks/worklinks6.jpeg",
+          "images/portfolio/worklinks/worklinks7.jpeg",
+          "images/portfolio/worklinks/worklinks8.jpeg",
+          "images/portfolio/worklinks/worklinks9.jpeg",
+          "images/portfolio/worklinks/worklinks10.jpeg",
+          "images/portfolio/worklinks/worklinks11.jpeg"
+        
+         
+          ],
+        "url": "https://github.com/Teri11/worklinks-frontend",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
+      },
+      {
+        "title": "Quick-MAID",
+        "startDate": "2022",
+        "description": "QuickMaid- - company is commited to delivering innovative cleaning services in the marketplace. The company offers carpet, sofa set, cleaning services and nanny services. It also offers reliable and affordable housekeeping services.we offer quality and value that results in complete customer satisfaction.",
+        "images": [
+          "images/portfolio/maid/maid1.jpeg",
+          "images/portfolio/maid/maid2.jpeg",
+          "images/portfolio/maid/maid3.jpeg",
+          "images/portfolio/maid/maid4.jpeg",
+          "images/portfolio/maid/maid5.jpeg",
+          "images/portfolio/maid/maid6.jpeg",
+          "images/portfolio/maid/maid7.jpeg",
+          "images/portfolio/maid/maid8.jpeg",
+          "images/portfolio/maid/maid9.jpeg",
+          "images/portfolio/maid/maid10.jpeg",
+          "images/portfolio/maid/maid11.jpeg"
+        
+         
+          ],
+        "url": "https://github.com/Teri11/Quick-MAID",
+        "technologies": [
+          {
+            "class": "devicon-typescript-plain",
+            "name": "Typescript"
+          },
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
+      },
+      {
+        "title": "Rophyx-Traders",
+        "startDate": "2022",
+        "description": "Rophyx Traders is a store as well as a web commerce shop that sells, service and installs and maintains security items suchs CCTV, CCTV accessories.",
+        "images": [
+          "images/portfolio/trades/trade1.jpeg",
+          "images/portfolio/trades/trade2.jpeg",
+          "images/portfolio/trades/trade3.jpeg",
+          "images/portfolio/trades/trade4.jpeg",
+          "images/portfolio/trades/trade5.jpeg",
+          "images/portfolio/trades/trade6.jpeg",
+          "images/portfolio/trades/trade7.jpeg",
+          "images/portfolio/trades/trade8.jpeg",
+          "images/portfolio/trades/trade9.jpeg",
+          "images/portfolio/trades/trade10.jpeg",
+          "images/portfolio/trades/trade11.jpeg",
+          "images/portfolio/trades/trade12.jpeg",
+          "images/portfolio/trades/trade13.jpeg"
+        
+         
+          ],
+        "url": "https://teri11.github.io/Rophyx-Traders/",
+        "technologies": [
+         
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
+      },
+      {
+        "title": "Shire-livestock-buy-and-sell",
+        "startDate": "2022",
+        "description": "This is a livestock website which will be of help to farmers who cannot get the market for their livestock.It will bring the global livestock farming right into the digital world",
+        "images": [
+          "images/portfolio/shire/shire1.jpeg",
+          "images/portfolio/shire/shire2.jpeg",
+          "images/portfolio/shire/shire3.jpeg",
+          "images/portfolio/shire/shire4.jpeg",
+          "images/portfolio/shire/shire5.jpeg",
+          "images/portfolio/shire/shire6.jpeg",
+          "images/portfolio/shire/shire7.jpeg",
+          "images/portfolio/shire/shire8.jpeg",
+          "images/portfolio/shire/shire9.jpeg",
+          "images/portfolio/shire/shire10.jpeg",
+          "images/portfolio/shire/shire11.jpeg",
+          "images/portfolio/shire/shire12.jpeg",
+          "images/portfolio/shire/shire13.jpeg",
+          "images/portfolio/shire/shire14.jpeg"
+
+        
+         
+          ],
+        "url": "https://teri11.github.io/Shire-livestock-buy-and-sell/",
+        "technologies": [
+         
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
+      },
+      {
+        "title": "Marvel-Gallery",
+        "startDate": "2022",
+        "description": "Rophyx Traders is a store as well as a web commerce shop that sells, service and installs and maintains security items suchs CCTV, CCTV accessories.",
+        "images": [
+          "images/portfolio/marvel/marvel1.jpeg",
+          "images/portfolio/marvel/marvel2.jpeg",
+          "images/portfolio/marvel/marvel3.jpeg",
+          "images/portfolio/marvel/marvel4.jpeg"
+          
+          ],
+        "url": " https://teri11.github.io/Marvel-Gallery/",
+        "technologies": [
+         
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-sass-plain",
+            "name": "SCSS"
+          },
+          {
+            "class": "devicon-css3-plain",
+            "name": "CSS"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          }
+        
+        ]
+      }
+      
+    ],
+    "experience": [
+      {
+        "company": "Hobo Developers",
+        "title": "Front-End Developer",
+        "years": "06.2022 - present",
+        "mainTech": [
+          "React,HTML,CSS,Javascript 6/9/10"
+        ],
+        "technologies": [
+          "CSS",
+          "REACT",
+          "HTML",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "",
+          "SASS",
+          "SCSS"
+          
+        ]
+      },
+      {
+        "company": "MORINGA SCHOOL",
+        "title": "Student",
+        "years": "21.10.2021 - 13.05.2022",
+        "mainTech": [
+          "Angular,Flask & Django 7/8"
+        ],
+        "technologies": [
+          "HTML",
+          "Django",
+          "Css",
+          "JavaScript",
+          "Flask",
+          "API",
+          "Angular Material"
+        ]
+      }
+    ]
+  }

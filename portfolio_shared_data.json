@@ -1,0 +1,80 @@
+{
+    "basic_info": {
+      "name": "Kubai Augustine Mweteri",
+      "titles": [ "Front-end Engineer", "Full-Stack Developer"],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/Teri11",
+          "class": "fab fa-github"
+        },
+        {
+          "name": "instagram",
+          "url": "https://www.instagram.com",
+          "class": "fab fa-instagram"
+        },
+        {
+          "name": "twitter",
+          "url": "https://twitter.com/AugustineTeri1",
+          "class": "fab fa-twitter"
+        },
+        {
+          "name": "facebook",
+          "url": "https://www.facebook.com",
+          "class": "fab fa-facebook"
+        }
+      ],
+      "image": "prof99.jpeg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "Angular",
+          "class": "devicon-angularjs-plain",
+          "level": "80"
+        },
+        {
+          "name": "flask",
+          "class": "devicon-flask-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "55"
+        },
+     
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+       
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "60"
+        },
+        {
+          "name": "django",
+          "class": "devicon-django-plain",
+          "level": "60"
+        },
+        {
+          "name": "sass",
+          "class": "devicon-sass-plain",
+          "level": "60"
+        }
+       ]
+    }
+  }
