@@ -642,36 +642,39 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
+        "company": "Hobo Developers",
         "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
+        "years": "06.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "React,HTML,CSS,Javascript 6/9/10"
         ],
         "technologies": [
-          "REST API",
-          "Django",
-          "RxJS",
+          "CSS",
+          "REACT",
+          "HTML",
           "JavaScript",
           "Bootstrap",
           "MDBootstrap",
-          "EF Core",
-          "Angular Material"
+          "",
+          "SASS",
+          "SCSS"
+          
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "MORINGA SCHOOL",
+        "title": "Student",
+        "years": "21.10.2021 - 13.05.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Angular,Flask & Django 7/8"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
+          "HTML",
+          "Django",
+          "Css",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Flask",
+          "Angular Material"
         ]
       }
     ]
